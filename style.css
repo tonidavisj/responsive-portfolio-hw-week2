@@ -1,3 +1,7 @@
 .topSectionWImg{
-    margin-top: 40px;
+    margin: 40px 0;
+}
+
+@media (max-width: 425px){
+
 }
