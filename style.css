@@ -2,6 +2,9 @@
     margin: 40px 0;
 }
 
-@media (max-width: 425px){
 
+@media (max-width: 768px){
+    .topSectionWImg img{
+        margin-bottom: 20px;
+    }
 }
