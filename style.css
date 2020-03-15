@@ -4,20 +4,20 @@
 
 
 /* Contact Page*/
-.contactPage main{
+.contactPage main, .portfolioPage main{
     margin-top: 60px;
 }
 .formHeader{
     text-align: center;
 }
 
-.contactPage form div.row{
+.contactPage form div.row, .portfolioRow{
     margin: 20px 0;
 }
 
 /* Extra Responsive Styling */
 @media (max-width: 768px){
-    .topSectionWImg img{
+    .topSectionWImg img, .card{
         margin-bottom: 20px;
     }
 }
