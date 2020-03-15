@@ -1,4 +1,20 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# Toni's Portfolio Project
+
+* Index (Home)
+
+The Index page will have my bio and highlights of my skills
+
+* Portfolio
+
+The portfolio page highligh my most recent projects
+
+* Contact
+
+The contact page will have a form for people to contat me
+
+# Homework Description
+
+## Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
